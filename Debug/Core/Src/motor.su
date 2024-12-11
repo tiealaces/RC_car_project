@@ -1,0 +1,7 @@
+../Core/Src/motor.c:35:6:Forward	8	static
+../Core/Src/motor.c:44:6:Backward	8	static
+../Core/Src/motor.c:53:6:Right	8	static
+../Core/Src/motor.c:61:6:Right_slow	8	static
+../Core/Src/motor.c:69:6:Left	8	static
+../Core/Src/motor.c:77:6:Left_slow	8	static
+../Core/Src/motor.c:85:6:STOP	8	static

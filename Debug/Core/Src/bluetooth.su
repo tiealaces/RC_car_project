@@ -1,0 +1,1 @@
+../Core/Src/bluetooth.c:17:6:HAL_UARTEx_RxEventCallback	16	static
